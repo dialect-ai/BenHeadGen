@@ -12,7 +12,7 @@
 **Code for this work will be published soon**
 
 ## Dataset
-Dataset used in this work can be found here: [full version](https://drive.google.com/u/5/uc?id=1VQ8NzfGxn1R1xLxexGmR5sHT3q0VTxyj&export=download), [train set](https://drive.google.com/u/5/uc?id=1LsxHyVtuV1ZIpFZc1nSc7jPSGvPSEE4v&export=download), [validation set](https://drive.google.com/u/5/uc?id=1-ek33XYfg2Q9sRRIlP3wcbtNFlPqA4i4&export=download), [test set](https://drive.google.com/u/5/uc?id=12m7r9q0oXu-TCDrGv20D_LD5QsRWRGpd&export=download).
+Dataset used in this work can be found here: [full version](https://drive.google.com/u/5/uc?id=1VQ8NzfGxn1R1xLxexGmR5sHT3q0VTxyj&export=download), [training set](https://drive.google.com/u/5/uc?id=1LsxHyVtuV1ZIpFZc1nSc7jPSGvPSEE4v&export=download), [validation set](https://drive.google.com/u/5/uc?id=1-ek33XYfg2Q9sRRIlP3wcbtNFlPqA4i4&export=download), [test set](https://drive.google.com/u/5/uc?id=12m7r9q0oXu-TCDrGv20D_LD5QsRWRGpd&export=download).
 
 
 ## Cite
