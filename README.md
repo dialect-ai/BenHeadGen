@@ -15,8 +15,9 @@ Dataset used in this work can be found here: [full version](https://drive.google
 **Code for this work will be published soon**
 
 ## Cite
-If you find this work useful for your research, please consider citing.
-<pre><tt>@inproceedings{akash-etal-2023-shironaam,
+If you find this work useful for your research, please consider citing:
+```
+@inproceedings{akash-etal-2023-shironaam,
     title = "Shironaam: {B}engali News Headline Generation using Auxiliary Information",
     author = "Akash, Abu Ubaida  and
       Nayeem, Mir Tafseer  and
@@ -29,7 +30,8 @@ If you find this work useful for your research, please consider citing.
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2023.eacl-main.4",
     pages = "52--67",
-}</tt></pre>
+}
+```
 
 We would like to hear from you if:
 - Our work has helped you. Please let us know your feedback.
