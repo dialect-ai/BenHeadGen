@@ -17,19 +17,12 @@ Dataset used in this work can be found here: [full version](https://drive.google
 
 ## Cite
 If you find this work useful for your research, please consider citing.
-<pre><tt>@inproceedings{akash-etal-2023-shironaam,
-    title = "Shironaam: {B}engali News Headline Generation using Auxiliary Information",
-    author = "Akash, Abu Ubaida  and
-      Nayeem, Mir Tafseer  and
-      Shohan, Faisal Tareque  and
-      Islam, Tanvir",
-    booktitle = "Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics",
-    month = may,
-    year = "2023",
-    address = "Dubrovnik, Croatia",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2023.eacl-main.4",
-    pages = "52--67",
+<pre><tt>@inproceedings{akash2023shironaam,
+  title={Shironaam: Bengali News Headline Generation using Auxiliary Information},
+  author={Akash, Abu Ubaida and Nayeem, Mir Tafseer and Shohan, Faisal Tareque and Islam, Tanvir},
+  booktitle={Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics},
+  pages={52--67},
+  year={2023}
 }</tt></pre>
 
 We would like to hear from you if:
